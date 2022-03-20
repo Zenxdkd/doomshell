@@ -23,12 +23,12 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.1      @#%,.@        
+ X# \.X        @#%,.@   Doomshell v1.3      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        ParzivalHack
 '
 echo " " 
 echo -e "$red                      ⫸$ylo  Coded by ParzivalHack$red ⫷$rset"
@@ -54,12 +54,12 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.2      @#%,.@        
+ X# \.X        @#%,.@   Doomshell v1.3      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        ParzivalHack
 '
 echo " " 
 echo -e "$red                      ⫸$ylo Coded by ParzivalHack$red ⫷$rset"
