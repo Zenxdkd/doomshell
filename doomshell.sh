@@ -75,11 +75,11 @@ echo " "
 echo " "
 echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
 echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
-echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
+echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About me"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
 echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Check out my VPN"
 echo -e "$red                        ➡$cyan [\e[92m6\e[96m] Report issues"
-echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Exit"
+echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Exit"
 echo " "
 echo " "
 echo -e "$grn               >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
@@ -94,7 +94,9 @@ then
 save
 elif [ $optnz = "3" ];
 then
-about
+am start -a android.intent.action.VIEW -d https://msha.ke/tommasobona/ > /dev/null 2>&1
+banner
+menu
 elif [ $optnz = "4" ];
 then
 upd
