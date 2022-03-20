@@ -78,7 +78,7 @@ echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
 echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
 echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Check out my VPN"
-echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Check out my Github page"
+echo -e "$red                        ➡$cyan [\e[92m6\e[96m] Report issues"
 echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Exit"
 echo " "
 echo " "
@@ -100,12 +100,12 @@ then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d www.whispervpn.company.site > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://www.whispervpn.company.site/ > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://github.com/ParzivalHack > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://github.com/ParzivalHack/doomshell/issues > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
