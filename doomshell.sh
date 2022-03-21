@@ -1,5 +1,5 @@
 red="\e[91m"
-rset="\e[0m"
+rset="\e[91m"
 grn="\e[91m"
 ylo="\e[91m"
 blue="\e[91m"
@@ -9,7 +9,7 @@ pink="\e[91m"
 # scripting start
 banner(){
 vid
-echo -e '\e[93m               
+echo -e '\e[91m               
                          __________
                       .~#########%%;~.
                      /############%%;`\
@@ -22,7 +22,7 @@ echo -e '\e[93m
  XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
-echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
+echo -e '\e[91mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
  X# \.X        @#%,.@   Doomshell v1.3      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
@@ -35,15 +35,15 @@ echo -e "$red                      ⫸$ylo  Coded by ParzivalHack$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [FOR EDUCATIONAL PURPOSES ONLY.
-THE AUTHOR OF THIS TOOL 
-IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
-TO DEVICES NOR PEOPLE😇✌️]$rset"
+                                     THE AUTHOR OF THIS TOOL 
+                               IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
+                                  TO DEVICES NOR PEOPLE😇✌️]$rset"
 echo " "
 echo " "
 }
 baner1(){
 clear
-echo -e '\e[93m               
+echo -e '\e[91m               
                          __________
                       .~#########%%;~.
                      /############%%;`\
@@ -56,7 +56,7 @@ echo -e '\e[93m
  XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
-echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
+echo -e '\e[91mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
  X# \.X        @#%,.@   Doomshell v1.3      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
@@ -69,9 +69,9 @@ echo -e "$red                      ⫸$ylo Coded by ParzivalHack$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [FOR EDUCATIONAL PURPOSES ONLY.
-THE AUTHOR OF THIS TOOL 
-IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
-TO DEVICES NOR PEOPLE😇✌️]$rset"
+                                     THE AUTHOR OF THIS TOOL 
+                               IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
+                                   TO DEVICES NOR PEOPLE😇✌️]$rset"
 echo " "
 echo " "
 }
