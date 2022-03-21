@@ -35,9 +35,9 @@ echo -e "$red                      ⫸$ylo  Coded by ParzivalHack$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [FOR EDUCATIONAL PURPOSES ONLY.
-                                     THE AUTHOR OF THIS TOOL 
-                               IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
-                                  TO DEVICES NOR PEOPLE😇✌️]$rset"
+                              THE AUTHOR OF THIS TOOL 
+                         IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
+                           TO DEVICES NOR PEOPLE😇✌️]$rset"
 echo " "
 echo " "
 }
@@ -69,9 +69,9 @@ echo -e "$red                      ⫸$ylo Coded by ParzivalHack$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [FOR EDUCATIONAL PURPOSES ONLY.
-                                     THE AUTHOR OF THIS TOOL 
-                               IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
-                                   TO DEVICES NOR PEOPLE😇✌️]$rset"
+                              THE AUTHOR OF THIS TOOL 
+                        IT'S NOT RESPONSIBLE FOR ANY DAMAGE 
+                            TO DEVICES NOR PEOPLE😇✌️]$rset"
 echo " "
 echo " "
 }
