@@ -205,13 +205,13 @@ while git clone https://github.com/ParzivalHack/doomshell 2> /dev/null; do
     printf  "\e[91m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
-clear
 printf "\e[91m]\e[0m"
 echo
 echo
 echo
 printf "\e[91m           UPDATED SUCCESSFULLY TO THE LATEST VERSION!\e[0m"
 sleep 2.0
+clear
 cd $HOME
 cd doomshell
 bash doomshell.sh
