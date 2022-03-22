@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in ITALY" src="https://img.shields.io/badge/Tool-Doomshell-green.svg"></a>
-<a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1.3-green.svg?style=flat-square"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1-green.svg?style=flat-square"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ParzivalKali"><img title="Github" src="https://img.shields.io/badge/ParzivalKali-brightgreen?style=for-the-badge&logo=github"></a>
@@ -12,6 +12,8 @@
 <a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
+
+![doom](https://user-images.githubusercontent.com/82817793/159524083-706056dd-3fdb-48a5-8faf-44d6ffd260df.jpg)
 
 ## ABOUT TOOL :
 
