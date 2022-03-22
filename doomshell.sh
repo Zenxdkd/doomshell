@@ -18,6 +18,7 @@ echo -e '\e[91m
                            ▐▌▐▌─▐▌─▐▌▐▌
                            ─▐─█────█─▌─
                            ────▌──▐────
+                           Doomshell v.1
 '
 echo " " 
 echo -e "$red                   ⫸$ylo  Coded by ParzivalHack$red ⫷$rset"
@@ -204,6 +205,7 @@ while git clone https://github.com/ParzivalHack/doomshell 2> /dev/null; do
     printf  "\e[91m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
+clear
 printf "\e[91m]\e[0m"
 echo
 echo
