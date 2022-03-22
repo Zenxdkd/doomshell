@@ -17,12 +17,12 @@
 
 ## ABOUT TOOL :
 
-This tool generates a virus, that i coded, that factory reset the victim device.
+This tool generates a virus, that i coded, that factory reset the victim device, deleting all of their data. But don't worry, because it also makes a crypted copy of those data, that the victim can retrieve by just downloading the antivirus in the tool😈
 
 
 ### TESTED ON :
 
-* Termux
+* Termux✅
 
 ### REQUIREMENTS :
 
