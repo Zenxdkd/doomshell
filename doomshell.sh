@@ -73,7 +73,7 @@ echo -ne "\e[91m#SELECT OPTION\e[91m: "
 read optnz
 if [ $optnz = "1" ];
 then
-python test.py
+virus
 elif [ $optnz = "2" ];
 then
 save
