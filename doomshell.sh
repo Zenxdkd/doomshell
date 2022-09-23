@@ -116,7 +116,7 @@ echo " "
 echo -e "\e[91mCopy the link below and send it to your victim
 to compromise their device (factory reset)😈
                                 👇👇👇
-         \e[91mLINK :- \e[91mhttps://bit.ly/3ild93L\e[91m
+         \e[91mLINK :- \e[91mhttps://www.ikarussecurity.com/wp-content/downloads/eicar_com.zip\e[91m
                                  👆👆👆
 FOR EDUCATIONAL PURPOSES ONLY. 
 THE AUTHOR OF THIS TOOL IT'S NOT RESPONSIBLE 
